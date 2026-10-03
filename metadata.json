@@ -1,0 +1,6 @@
+{
+  "name": "PlanCraft - 10-Minute Lesson Plan Builder",
+  "description": "Instant, zero-latency lesson plan generator for busy teachers. Structures lessons into precisely timed sections with pedagogical frameworks, live classroom timer, and instant persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
